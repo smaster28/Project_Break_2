@@ -24,7 +24,7 @@ src/
 ├── results_notebook/    # Notebook final
 └── utils/               # Funciones auxiliares
 
-README.md                # Este archivo, bilingüe
+
 ```
 
 ## 🛠️ Modelos / Models
